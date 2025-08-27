@@ -169,11 +169,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abobker\\source\\repos\\CI_CD\\CI_CD.csproj",
+      "projectUniqueName": "C:\\Users\\Abobker\\source\\repos\\CI_CD\\testGithubActions\\CI_CD\\CI_CD.csproj",
       "projectName": "CI_CD",
-      "projectPath": "C:\\Users\\Abobker\\source\\repos\\CI_CD\\CI_CD.csproj",
+      "projectPath": "C:\\Users\\Abobker\\source\\repos\\CI_CD\\testGithubActions\\CI_CD\\CI_CD.csproj",
       "packagesPath": "C:\\Users\\Abobker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abobker\\source\\repos\\CI_CD\\obj\\",
+      "outputPath": "C:\\Users\\Abobker\\source\\repos\\CI_CD\\testGithubActions\\CI_CD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
